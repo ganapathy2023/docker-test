@@ -1,2 +1,2 @@
 # docker-test
-Sample Node.js Docker Hello Application
+Docker Test Docker Hello Application
